@@ -149,7 +149,7 @@
   </tr>
 </table>
 
-<h4 align="left">Additional Experiences</h4>
+<h4 align="left">Additional Knowledge</h4>
 <table>
   <tr>
     <td align="center">
