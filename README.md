@@ -123,6 +123,12 @@
       <sub>Oracle Cloud</sub>
     </td>
     <td align="center">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"/>
+      </a><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo"/>
       </a><br/>
