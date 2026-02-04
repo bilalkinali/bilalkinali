@@ -104,6 +104,12 @@
       </a><br/>
       <sub>gRPC</sub>
     </td>
+    <td align="center">
+      <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+        <img src="https://ollama.com/public/ollama.png" height="40" width="40" alt="ollama logo"/>
+      </a><br/>
+      <sub>Ollama</sub>
+    </td>
   </tr>
 </table>
 
