@@ -100,13 +100,13 @@
     </td>
     <td align="center">
       <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-        <img src="https://grpc.io/img/logos/grpc-icon-color.png" height="40" width="40" alt="grpc logo"/>
+        <img src="https://grpc.io/img/logos/grpc-logo.png" height="40" width="40" alt="grpc logo"/>
       </a><br/>
       <sub>gRPC</sub>
     </td>
     <td align="center">
       <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-        <img src="https://ollama.com/public/ollama.png" height="40" width="40" alt="ollama logo"/>
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" height="40" width="40" alt="ollama logo"/>
       </a><br/>
       <sub>Ollama</sub>
     </td>
@@ -145,6 +145,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"/>
       </a><br/>
       <sub>Docker</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/1280px-Vmware.svg.png" height="40" width="40" alt="vmware logo"/>
+      </a><br/>
+      <sub>VMware</sub>
     </td>
   </tr>
 </table>
