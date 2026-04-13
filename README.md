@@ -20,6 +20,12 @@
       <sub>JavaScript</sub>
     </td>
     <td align="center">
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"/>
+      </a><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"/>
       </a><br/>
